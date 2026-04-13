@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .shopping one-word domains from Un
 
 **Public extract:** 9,313 rows · **Live catalog:** 9,311 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/shopping`  
 **Best for:** founders, investors, studios
 
@@ -82,7 +82,7 @@ print(df.head())
 | unity.shopping    | available | $14.99    | $45.99        | 70             | 40     | 5      | name.com                                     |
 | now.shopping      | resell    | —         | —             | 78             | 66     | 3      | DNSPod, Inc.                                 |
 | one.shopping      | premium   | $123.75   | $123.75       | 132            | 50     | 3      | name.com                                     |
-| awake.shopping    | available | $14.99    | —             | 86             | 39     | 5      | name.com                                     |
+| gather.shopping   | available | $14.99    | $45.99        | 96             | 39     | 6      | name.com                                     |
 | news.shopping     | resell    | —         | —             | 100            | 64     | 4      | IONOS SE                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOPPING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOPPING One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
