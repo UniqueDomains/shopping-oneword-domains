@@ -1,10 +1,10 @@
-# Available .SHOPPING One-Word Domains (9,311)
+# Available .SHOPPING One-Word Domains (9,313)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C313%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C311%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C314%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C313%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .shopping one-word domains from Un
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,313 rows · **Live catalog:** 9,311 domains
+**Public extract:** 9,314 rows · **Live catalog:** 9,313 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/shopping`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .SHOPPING one-word dom
 
 ### Files
 
-- `shopping.csv` — public CSV extract (9,313 rows)
-- `shopping.json` — public JSON extract (9,313 rows)
+- `shopping.csv` — public CSV extract (9,314 rows)
+- `shopping.json` — public JSON extract (9,314 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -66,17 +66,17 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
 | creator.shopping  | available | $14.99    | $45.99        | 70             | 45     | 7      | name.com                                     |
 | zero.shopping     | resell    | $14.99    | $45.99        | 112            | 53     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| free.shopping     | premium   | $500      | $500          | 88             | 59     | 4      | name.com                                     |
+| free.shopping     | premium   | $500      | $500          | 88             | 57     | 4      | name.com                                     |
 | forge.shopping    | available | $14.99    | $45.99        | 62             | 45     | 5      | name.com                                     |
 | box.shopping      | resell    | —         | —             | 68             | 78     | 3      | DNSPod, Inc.                                 |
 | data.shopping     | premium   | $520      | $520          | 70             | 56     | 4      | namecheap                                    |
 | nice.shopping     | available | $14.99    | $45.99        | 86             | 44     | 4      | name.com                                     |
 | wise.shopping     | resell    | —         | —             | 98             | 72     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 | good.shopping     | premium   | $500      | $500          | 82             | 55     | 4      | name.com                                     |
-| mark.shopping     | available | $14.99    | $45.99        | 66             | 42     | 4      | name.com                                     |
+| agile.shopping    | available | $14.99    | $45.99        | 92             | 41     | 5      | name.com                                     |
 | easy.shopping     | resell    | —         | —             | 128            | 68     | 4      | Porkbun LLC                                  |
 | business.shopping | premium   | $260      | $260          | 100            | 53     | 8      | namecheap                                    |
-| agile.shopping    | available | $14.99    | $45.99        | 92             | 41     | 5      | name.com                                     |
+| mark.shopping     | available | $14.99    | $45.99        | 66             | 41     | 4      | name.com                                     |
 | prompt.shopping   | resell    | —         | —             | 114            | 68     | 6      | Sav.com, LLC - 1                             |
 | buy.shopping      | premium   | $500      | —             | 84             | 53     | 3      | name.com                                     |
 | unity.shopping    | available | $14.99    | $45.99        | 70             | 40     | 5      | name.com                                     |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,313-row public sample | 9,311 live domains                               |
+| 9,314-row public sample | 9,313 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
