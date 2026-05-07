@@ -137,6 +137,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0bd57963-c1aa-4f7f-afa1-fa1f3dd2ac47,affects.shopping,available,14.99,,54,4,7,name.com,,
 0bdc0698-2061-4ce6-af45-3576c0a117ee,commonnouns.shopping,available,14.99,,54,0,12,name.com,,
 0bf5a36d-d942-4181-b54d-f3ad8f3bce92,throngs.shopping,available,14.99,,53,2,7,name.com,,
+0c01cbde-b378-45d2-8268-fc0e884bf00d,noon.shopping,premium,,,72,27,4,,,
 0c2c77d3-9800-4027-9795-82698ed5bd01,shoveover.shopping,available,14.99,,59,1,10,name.com,,
 0c2f1f2d-b752-4201-b1e0-48ab253baf4f,executivedirector.shopping,available,14.99,,56,2,18,name.com,,
 0c4b74ff-2130-4e66-8f53-4a206731d9a4,cents.shopping,available,14.99,,56,9,5,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59d22a02-91a8-4b70-b45a-a7a251b573b6,crows.shopping,available,14.99,,68,12,5,name.com,,
 59d7baa0-2762-4800-8941-074eea5d5b2a,pizzaplace.shopping,available,14.99,,56,3,11,name.com,,
 59e1e66c-439d-4eaa-8589-48e044e8e91b,accountsreceivable.shopping,available,14.99,,62,5,19,name.com,,
-59f2ebaa-1e38-453b-97bc-c88c9384a038,messages.shopping,available,14.99,,80,16,8,name.com,,

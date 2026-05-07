@@ -73,7 +73,6 @@ print(df.head())
 | QandA.shopping    | available | $37.98    | —             | 80             | 10     | 7      | namecheap                    |
 | toneup.shopping   | available | $14.99    | —             | 80             | 5      | 7      | name.com                     |
 | leaveon.shopping  | available | $14.99    | —             | 80             | 1      | 8      | name.com                     |
-| messages.shopping | available | $14.99    | —             | 80             | 16     | 8      | name.com                     |
 | presents.shopping | available | $14.99    | —             | 80             | 9      | 8      | name.com                     |
 | headout.shopping  | available | $14.99    | —             | 82             | 6      | 8      | name.com                     |
 | Ryan.shopping     | available | $37.98    | —             | 60             | 44     | 4      | namecheap                    |
@@ -84,6 +83,7 @@ print(df.head())
 | events.shopping   | premium   | $500      | —             | 68             | 37     | 6      | name.com                     |
 | stories.shopping  | available | $14.99    | —             | 58             | 36     | 7      | name.com                     |
 | rewards.shopping  | premium   | $242      | $242          | 62             | 30     | 7      | namesilo                     |
+| William.shopping  | available | $37.98    | —             | 74             | 31     | 7      | namecheap                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
