@@ -429,6 +429,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 27975224-1fb9-49c4-a095-281e48257fe1,backgrounds.shopping,available,14.99,,50,5,11,name.com,,
 27eb054e-b4b1-414b-9446-01960798aac6,breads.shopping,available,14.99,,58,5,6,name.com,,
 27ec1400-9440-40a5-a02f-a5d21e719454,clearsailing.shopping,available,14.99,,72,1,13,name.com,,
+280f26f7-dc39-4e8a-a421-fa4be79ce412,emoji.shopping,available,14.99,,88,38,5,name.com,,
 28179da4-2e68-46fb-97e3-e49614abf377,beawake.shopping,available,14.99,,84,3,8,name.com,,
 281f3aad-77d5-421e-b57d-b7f06f97d6e0,gonuts.shopping,available,14.99,,76,8,7,name.com,,
 282b3425-3bf0-4350-9271-11fe1b1b3033,makefriendly.shopping,available,14.99,,72,1,13,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59a0a3aa-e739-4823-98f1-9ac1773f96b0,wrinkles.shopping,available,14.99,,55,4,8,name.com,,
 59d22a02-91a8-4b70-b45a-a7a251b573b6,crows.shopping,available,14.99,,68,12,5,name.com,,
 59d7baa0-2762-4800-8941-074eea5d5b2a,pizzaplace.shopping,available,14.99,,56,3,11,name.com,,
-59e1e66c-439d-4eaa-8589-48e044e8e91b,accountsreceivable.shopping,available,14.99,,62,5,19,name.com,,

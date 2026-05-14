@@ -81,9 +81,9 @@ print(df.head())
 | whynot.shopping   | available | $14.99    | —             | 74             | 39     | 7      | name.com                     |
 | ties.shopping     | resell    | —         | —             | 59             | 9      | 4      | TLD Registrar Solutions Ltd. |
 | events.shopping   | premium   | $500      | —             | 68             | 37     | 6      | name.com                     |
-| stories.shopping  | available | $14.99    | —             | 58             | 36     | 7      | name.com                     |
+| emoji.shopping    | available | $14.99    | —             | 88             | 38     | 5      | name.com                     |
 | rewards.shopping  | premium   | $242      | $242          | 62             | 30     | 7      | namesilo                     |
-| William.shopping  | available | $37.98    | —             | 74             | 31     | 7      | namecheap                    |
+| stories.shopping  | available | $14.99    | —             | 58             | 36     | 7      | name.com                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
