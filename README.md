@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .shopping one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,226 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,226 domains · **Median ask:** $23.27 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,226 domains · **Median ask:** $22.68 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/shopping`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/shopping`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SHOPPING one-word dom
 
 ### Files
 
-- `shopping.csv` — public CSV extract (1,000 rows)
-- `shopping.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `shopping.csv`, public CSV extract (1,000 rows)
+- `shopping.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                    |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------- |
-| Acup.shopping     | available | $37.98    | —             | 80             | 5      | 5      | namecheap                    |
-| emoji.shopping    | available | $14.99    | —             | 88             | 38     | 5      | name.com                     |
-| barup.shopping    | available | $14.99    | —             | 82             | 2      | 6      | name.com                     |
-| forces.shopping   | available | $14.99    | —             | 82             | 12     | 6      | name.com                     |
-| Apples.shopping   | available | $37.98    | —             | 90             | 16     | 6      | namecheap                    |
-| dogsit.shopping   | available | $14.99    | —             | 96             | 2      | 6      | name.com                     |
-| edamame.shopping  | available | $14.99    | —             | 80             | 9      | 7      | name.com                     |
-| QandA.shopping    | available | $37.98    | —             | 80             | 10     | 7      | namecheap                    |
-| toneup.shopping   | available | $14.99    | —             | 80             | 5      | 7      | name.com                     |
-| leaveon.shopping  | available | $14.99    | —             | 80             | 1      | 8      | name.com                     |
-| presents.shopping | available | $14.99    | —             | 80             | 9      | 8      | name.com                     |
-| whynot.shopping   | available | $14.99    | —             | 74             | 44     | 7      | name.com                     |
-| prompts.shopping  | resell    | —         | —             | 54             | 39     | 7      | Dynadot Inc                  |
-| Tools.shopping    | premium   | $560      | $560          | 56             | 40     | 5      | namecheap                    |
-| Ryan.shopping     | available | $37.98    | —             | 60             | 44     | 4      | namecheap                    |
-| ties.shopping     | resell    | —         | —             | 59             | 9      | 4      | TLD Registrar Solutions Ltd. |
-| events.shopping   | premium   | $500      | —             | 68             | 37     | 6      | name.com                     |
-| rewards.shopping  | premium   | $242      | $242          | 62             | 30     | 7      | namesilo                     |
-| stories.shopping  | available | $14.99    | —             | 58             | 36     | 7      | name.com                     |
-| brands.shopping   | premium   | $250      | —             | 62             | 28     | 6      | name.com                     |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| but.shopping   | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
+| any.shopping   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                         |
+| kid.shopping   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
+| far.shopping   | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
+| pay.shopping   | resell    | —         | —             | high           | medium | 3      | Squarespace Domains II LLC                          |
+| lp.shopping    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                            |
+| fat.shopping   | available | $14.99    | —             | medium         | low    | 3      | name.com                                            |
+| easy.shopping  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                         |
+| fund.shopping  | premium   | $500      | —             | high           | low    | 4      | name.com                                            |
+| Fla.shopping   | available | $14.99    | —             | medium         | low    | 3      | name.com                                            |
+| info.shopping  | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| sale.shopping  | premium   | $500      | —             | high           | low    | 4      | name.com                                            |
+| IDK.shopping   | available | $14.99    | —             | medium         | low    | 3      | name.com                                            |
+| lady.shopping  | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| Codes.shopping | premium   | $500      | —             | medium         | low    | 5      | name.com                                            |
+| ivy.shopping   | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
+| xmas.shopping  | resell    | —         | —             | high           | low    | 4      | Go Australia Domains, LLC                           |
+| group.shopping | premium   | $520      | $520          | high           | low    | 5      | namecheap                                           |
+| jar.shopping   | available | $14.99    | —             | high           | low    | 3      | name.com                                            |
+| ideal.shopping | resell    | —         | —             | high           | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely focused on one-word .shopping domains. The set includes dictionary-like words, personal names, verbs, and short coined forms such as Acup.shopping, Cindy.shopping, Trex.shopping, getup.shopping, and useit.shopping. For founders, the main question is whether the word is memorable, relevant to commerce, and easy to say without extra explanation. For investors, the first pass is pricing discipline: the median ask is 23.27, so stronger terms should justify any premium through clarity, breadth, and resale potential. When comparing these domains, weigh category fit, spelling simplicity, and the risk of third-party brand conflicts before treating a name as ownable.
+This selection contains one-word .shopping domain names, ranging from straightforward brandable terms like windowshop and becalled to recognizable character names such as MickeyMouse and DaffyDuck. With a median ask near $23, pricing stays accessible across the group, though names built on well-known characters or franchises carry higher trademark exposure. Buyers evaluating this list should weigh brandability against legal risk before committing to a purchase.
 
-- One-word .shopping domains across names, verbs, and broad terms
-- Median ask is 23.27 across 12,222 listed domains
-- Favor clear spelling and broad commerce relevance
-- Check brand conflict risk before treating a name as ownable
+- 12,226 one-word .shopping domains, median ask ~$23
+- Mix of brandable coined terms and pop-culture names
+- Short, single-word structure across the entire set
+- Some entries carry trademark risk—review before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOPPING One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOPPING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
