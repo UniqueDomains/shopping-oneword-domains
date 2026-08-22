@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .shopping one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,698 domains · **Median ask:** $19.51 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/shopping`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| but.shopping   | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
-| any.shopping   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                             |
-| kid.shopping   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                |
-| far.shopping   | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
-| ccc.shopping   | resell    | —         | —             | low            | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| lp.shopping    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                |
-| fat.shopping   | available | $14.99    | —             | medium         | low    | 3      | name.com                                                |
-| pay.shopping   | resell    | —         | —             | high           | medium | 3      | Squarespace Domains II LLC                              |
-| fund.shopping  | premium   | $500      | —             | high           | low    | 4      | name.com                                                |
-| Fla.shopping   | available | $14.99    | —             | medium         | low    | 3      | name.com                                                |
-| easy.shopping  | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                             |
-| sale.shopping  | premium   | $500      | —             | high           | low    | 4      | name.com                                                |
-| IDK.shopping   | available | $14.99    | —             | medium         | low    | 3      | name.com                                                |
-| info.shopping  | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| Codes.shopping | premium   | $500      | —             | medium         | low    | 5      | name.com                                                |
-| iii.shopping   | available | $14.99    | $45.99        | low            | low    | 3      | name.com                                                |
-| lady.shopping  | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| group.shopping | premium   | $520      | $520          | high           | low    | 5      | namecheap                                               |
-| ivy.shopping   | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
-| xmas.shopping  | resell    | —         | —             | high           | low    | 4      | Go Australia Domains, LLC                               |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| nothing.shopping | available | $14.99    | —             | high           | low    | 7      | name.com                                                |
+| easy.shopping    | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                             |
+| but.shopping     | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
+| any.shopping     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                             |
+| kid.shopping     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                |
+| far.shopping     | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
+| ccc.shopping     | resell    | —         | —             | low            | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| lp.shopping      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                |
+| fat.shopping     | available | $14.99    | —             | medium         | low    | 3      | name.com                                                |
+| pay.shopping     | resell    | —         | —             | high           | medium | 3      | Squarespace Domains II LLC                              |
+| fund.shopping    | premium   | $500      | —             | high           | low    | 4      | name.com                                                |
+| Fla.shopping     | available | $14.99    | —             | medium         | low    | 3      | name.com                                                |
+| sale.shopping    | premium   | $500      | —             | high           | low    | 4      | name.com                                                |
+| IDK.shopping     | available | $14.99    | —             | medium         | low    | 3      | name.com                                                |
+| info.shopping    | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| Codes.shopping   | premium   | $500      | —             | medium         | low    | 5      | name.com                                                |
+| iii.shopping     | available | $14.99    | $45.99        | low            | low    | 3      | name.com                                                |
+| lady.shopping    | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| group.shopping   | premium   | $520      | $520          | high           | low    | 5      | namecheap                                               |
+| ivy.shopping     | available | $14.99    | —             | high           | low    | 3      | name.com                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOPPING One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOPPING One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
