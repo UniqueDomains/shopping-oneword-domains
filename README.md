@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .shopping one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,308 domains · **Median ask:** $23.50 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/shopping`
 **Best for:** founders, investors, studios
 
@@ -72,7 +72,7 @@ print(df.head())
 | lp.shopping    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                |
 | fat.shopping   | available | $14.99    | —             | medium         | low    | 3      | name.com                                                |
 | info.shopping  | resell    | —         | —             | high           | medium | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| fund.shopping  | premium   | $512      | $512          | medium         | low    | 4      | namesilo                                                |
+| fund.shopping  | premium   | $520      | $520          | medium         | low    | 4      | namecheap                                               |
 | fla.shopping   | available | $14.99    | —             | medium         | low    | 3      | name.com                                                |
 | lady.shopping  | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 | sale.shopping  | premium   | $500      | —             | high           | low    | 4      | name.com                                                |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SHOPPING One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SHOPPING One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
